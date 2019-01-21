@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-mensaje, más cositas. 
->>>>>>> 2155397f9f618c7782e1022a55ed72e18351fa90
+mensaje, más cositas, desde el repositorio remoto.
