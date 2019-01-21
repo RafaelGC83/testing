@@ -1,1 +1,3 @@
-mensaje, adding more info
+<<<<<<< HEAD
+mensaje, más cositas. 
+>>>>>>> 2155397f9f618c7782e1022a55ed72e18351fa90
